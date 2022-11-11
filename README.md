@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monica Boyce</h1>
 - 🌱 I’m currently learning **DVC for Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MPBDS2022/Data-Science](https://github.com/MPBDS2022/Data-Science)
+- 👨‍💻 All of my projects are available at [Data Science Portfolio](https://github.com/MPBDS2022/Data-Science)
 
 - 💬 Ask me about **Bioinformatices, Big Data in the life sciences**
 
