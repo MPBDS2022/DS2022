@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/nikaboyce">View My LinkedIn Profile</a> 
   
-remote_theme: jeromelachaud/freelancer-theme
+remote_theme: freelancer-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 google_analytics: G-ZR33EFHKZS # your Google Analytics tracking ID here
