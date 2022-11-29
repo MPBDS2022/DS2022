@@ -1,10 +1,3 @@
-title: Monica Boyce
-logo: "/images/happymoji.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
- Analytical and detail oriented Ph.D. scientist seeking to leverage over 20 years of experience at the bench and in academic, scientific, medical and biopharmaceutical communications settings for Data Science focused roles after completing the MIT Applied Data Science Program this fall. Scope of data science related projects that I have completed during my coursework with MIT includes: Python coding, exploratory data analysis, statistical analysis, data visualization, principal component analysis, linear and logistic regression, machine learning, model building, training and analysis, cross-validation methods, decision trees, random forests, time-series analysis, network analysis, deep learning including building, testing and optimizing artificial and convolutional neural networks for computer vision applications.
-  <br><br>
-  <a href="https://www.linkedin.com/in/nikaboyce">View My LinkedIn Profile</a> 
-  
 remote_theme: freelancer-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
